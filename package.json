@@ -1,0 +1,14 @@
+{
+  "name": "RocketLab",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@cypress/react": "^5.9.3",
+    "@cypress/webpack-dev-server": "^1.4.0",
+    "cypress": "^8.1.0"
+  },
+  "dependencies": {
+    "react-icons": "^4.2.0"
+  }
+}

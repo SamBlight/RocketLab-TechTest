@@ -1,0 +1,5 @@
+{
+  "componentFolder": "tests",
+  "testFiles": "**/*.{js,ts,jsx,tsx}",
+  "pluginsFile": false
+}
